@@ -1,6 +1,7 @@
 # Fake News Predictor using LSTM
 
 Dataset: https://www.kaggle.com/c/fake-news/data# 
+
 This repository contains an implementation of a Long Short-Term Memory (LSTM) model to predict fake news . The project is developed entirely within a single Jupyter Notebook for ease of understanding and reproducibility.
 
 ## Project Overview
